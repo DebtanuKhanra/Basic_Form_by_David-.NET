@@ -94,7 +94,7 @@ namespace Basic_Form_by_David
                 {
                     conn1.Open();
 
-                    SqlCommand checkexistdata = new SqlCommand("select JobId from table1 where JobId='" + textJobid.Text + "'", conn1);
+                    SqlCommand checkexistdata = new SqlCommand("select JobId from table1 where JobId='" + textJobid.Text + "'", conn1); // To check Input data is already exsist or not.
                     SqlDataAdapter adapter = new SqlDataAdapter(checkexistdata);
                     DataTable dt = new DataTable();
                     adapter.Fill(dt);
@@ -104,6 +104,9 @@ namespace Basic_Form_by_David
                         textJobid.Text = "";
                     }
                     else
+                    
+                    
+                    
                     {
 
                         string query = "insert into table1 values(@jobid,@fname,@lname,@email,@sal)";
