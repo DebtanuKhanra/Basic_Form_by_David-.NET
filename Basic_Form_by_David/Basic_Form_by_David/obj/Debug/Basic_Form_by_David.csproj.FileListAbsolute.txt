@@ -1,0 +1,11 @@
+C:\Users\DAVID\source\repos\Basic_Form_by_David\Basic_Form_by_David\bin\Debug\Basic_Form_by_David.exe.config
+C:\Users\DAVID\source\repos\Basic_Form_by_David\Basic_Form_by_David\bin\Debug\Basic_Form_by_David.exe
+C:\Users\DAVID\source\repos\Basic_Form_by_David\Basic_Form_by_David\bin\Debug\Basic_Form_by_David.pdb
+C:\Users\DAVID\source\repos\Basic_Form_by_David\Basic_Form_by_David\obj\Debug\Basic_Form_by_David.csproj.AssemblyReference.cache
+C:\Users\DAVID\source\repos\Basic_Form_by_David\Basic_Form_by_David\obj\Debug\Basic_Form_by_David.csproj.SuggestedBindingRedirects.cache
+C:\Users\DAVID\source\repos\Basic_Form_by_David\Basic_Form_by_David\obj\Debug\Basic_Form_by_David.Form1.resources
+C:\Users\DAVID\source\repos\Basic_Form_by_David\Basic_Form_by_David\obj\Debug\Basic_Form_by_David.Properties.Resources.resources
+C:\Users\DAVID\source\repos\Basic_Form_by_David\Basic_Form_by_David\obj\Debug\Basic_Form_by_David.csproj.GenerateResource.cache
+C:\Users\DAVID\source\repos\Basic_Form_by_David\Basic_Form_by_David\obj\Debug\Basic_Form_by_David.csproj.CoreCompileInputs.cache
+C:\Users\DAVID\source\repos\Basic_Form_by_David\Basic_Form_by_David\obj\Debug\Basic_Form_by_David.exe
+C:\Users\DAVID\source\repos\Basic_Form_by_David\Basic_Form_by_David\obj\Debug\Basic_Form_by_David.pdb
