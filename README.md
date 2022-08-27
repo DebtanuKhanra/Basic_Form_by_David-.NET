@@ -7,7 +7,7 @@
  
 </div>
 
-### This is a Basic Form Construction Project using .NET Framework & Connect with Microsoft Sql Server. By this form I can Insert, Update, Delete and Search Data dirctly from my Microsoft SQL server DATABASE.<br>
+### This is a Basic Form Construction Project using .NET Framework & Connect with Microsoft Sql Server. By this form I can Insert, Update, Delete and Search Data dirctly to my Microsoft SQL server DATABASE.<br>
 
 <div align="center">
 
