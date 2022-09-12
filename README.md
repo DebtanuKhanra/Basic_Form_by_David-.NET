@@ -16,7 +16,7 @@
 </div>
 
 # 📝Suggestion: 
-  ***I have a suggestion for .NET beginners. At first time If any beginner want to understand this process of SQL Server Connection with .NET FrameWork then it may little bit Tough to understand for him/her. I have also faced same situation. But don't loose hope. First open my Code and try to understand step by step. I have also add some Comment out Note in this CODE section. I think it will be helpful for all. Also, I would like to suggest to follow [DailyDe](https://app.daily.dev/DebtanuKhanra). Go Ahead🔥❤️‍***<br>
+  ***I have a suggestion for .NET beginners. At first time If any beginner want to understand this process of SQL Server Connection with .NET FrameWork then it may little bit Tough to understand for him/her. I have also faced same situation. But don't loose hope. First open my Code and try to understand step by step. I have also add some Comment out Note in this CODE section. I think it will be helpful for all. Also, I would like to suggest to follow [DailyDev](https://app.daily.dev/DebtanuKhanra). Go Ahead🔥❤️‍***<br>
 
 # 📝 Note:
 ***I want to say heartiest thanks to my friend 😊 Istiaque Ansari 🙏❤️‍. Without his help it was very much tough for me to understand properly.***<br>
